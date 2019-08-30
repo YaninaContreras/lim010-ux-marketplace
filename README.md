@@ -92,6 +92,7 @@ https://user-images.githubusercontent.com/51222789/64018886-441b1500-caf3-11e9-8
 
 ##Customer persona
 Definimos el Customer persona porque el producto tiene arreglos para eventos especiales, por ende nuestro comprador no necesarimente sera nuesto usuario.
+https://user-images.githubusercontent.com/51333504/64037448-3b3e3980-cb1b-11e9-8420-63f1da4d068b.png
 
 ##Customer Journey Map (indicando pain y gain points)
 Seguimos el proceso desde la compra hasta que el producto llegue a las manos del usuario, mediante eso definimos las emociones alegrÍas o tristes 
@@ -139,13 +140,13 @@ Usamos esta herramienta para partir del que pasaría si?
 Despues de habernos preguntado y generado posibles soluciones las plasmamos a la realidad en nuestra lluvia de ideas
 
 ##Benchmark
-https://latiendadelcactus.es/
+[La Tienda del Cactus](https://latiendadelcactus.es/)
 
 * Mostrar información básica (imagen, nombre, precio, tamaño del producto, agregar al carrito )
 * Entrar a la imagen principal y obtener otras dos imágenes de diferentes ángulos con descripción de cuidados, consejos de uso.
 * Descripción de los ítems que se agregan o se compran en una lista numerada.
 
-https://shopsucculents.com/
+[Tienda Suculentas](https://shopsucculents.com/)
 * Agregar a opción de leer más.
 * Agregar opciones de tipos de plantas.
 * Muestra la opciones  de pago.
@@ -185,16 +186,42 @@ Priorizamos las soluciones mas viables:
 
 
 #Prototipo de baja fidelidad
-Se 
+
+Despues de haber hecho varios sketchs realizamos nuestro prototipo de baja fidelidad:
+https://user-images.githubusercontent.com/51222789/64037908-64ab9500-cb1c-11e9-9ab4-a67aa51bfc03.png
+https://user-images.githubusercontent.com/51222789/64038001-9de40500-cb1c-11e9-9b79-d3b130f5e5b9.png
+https://user-images.githubusercontent.com/51222789/64038054-c409a500-cb1c-11e9-92ad-a433ede3c38e.png
+https://user-images.githubusercontent.com/51222789/64038093-dc79bf80-cb1c-11e9-8d57-c1a9ae2fd66d.png
+https://user-images.githubusercontent.com/51222789/64038143-fd421500-cb1c-11e9-9ba6-f7e85c1aab16.png
+https://user-images.githubusercontent.com/51222789/64038211-2367b500-cb1d-11e9-9ffd-0c496848a764.png
+https://user-images.githubusercontent.com/51222789/64038245-37131b80-cb1d-11e9-8c2c-07966a2a3dd6.png
+
+Se realizo testeos:
+[Testeo de baja fidelidad](https://drive.google.com/drive/folders/1-6aPS7lAanTRFUIj1x8ec1xDTFAJmt-y?usp=sharing)
+
+Feedback:
+- EL texto estaba demasiado carggado
+- Carecía de botones necesarios (retornar, comprar, siguiente, agregar al carrito)
+- se eliminó la pantalla de información ya que podía incluirse en la desripción de cada item.
+- Se agregó un pantalla de despedida y calificación del servicio.
+
 
 #prototipo de media fidelidad
 
+Se realizó testeos 
+[Testeo de media fidelidad](https://www.loom.com/share/ea486eca4e04464a9eb751d66df140a4)
+
+Feedback:
+
+- La pantalla principal no parecía una pantalla principal
+- La parte de la bienvenida lo cambiara de lugar y no explícitamente, este en cada pantalla que tiene la web
+- En la parte de las ofertas les confundía como estaban colocados la información
+- La pantalla  "Nosotros" debería mostrar información sobre suculentas y el propósito de  la página 
+- En el botón accesorios  el usuario se confunde (supone que son macetas y no los materiales para que el usuario    escoja como armar su arreglo de suculenta.
+
 #Prototipo de alta fidelidad
-* Explicación de cómo los contenidos y funcionalidades responden a los objetivos
-  del proyecto. 
-* Explicación de cómo los contenidos y funcionalidades resuelven cada uno de las
-  necesidades del usuario final.
-* Link de Zeplin, InVision inspects o Marvel Hand-offs para compartir tus
-  diseños con desarrolladores.
+Después de del testeo de media fidelidad se llegó al de alta de la siguiente manera:
+[Prototipo de alta fidelidad](https://www.figma.com/file/EU1LhI1q5Nh9btynhyv96f/MARKETPLACE?node-id=0%3A1)
+
 
 Un video en [Loom](https://www.useloom.com/) de máximo 7 minutos explicando tu documento.
